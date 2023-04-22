@@ -1,0 +1,16 @@
+{ 
+    "_id": { "$oid": "643c2ff6fc936c410c5d893a" } ,
+    "aim": "This is aim",
+    "theory": "This is theory",
+    "procedure": "This is procedure",
+    "quiz": "This is quiz",
+    "projectId": "1"
+}
+
+// register username
+{
+  "userName": "Meet Amin",
+  "email": "meet@gmail.cm",
+  "password": "Hello"
+}
+
